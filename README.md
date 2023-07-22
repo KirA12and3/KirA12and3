@@ -1,5 +1,5 @@
-  I am Kira
-  I'm interested in justice
+  I am Tyrell
+  
   I’m currently learning python
 
 
